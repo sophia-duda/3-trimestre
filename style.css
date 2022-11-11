@@ -1,6 +1,6 @@
 body {background-color: rgb(25, 24, 27);text-align: center;font-size: 18px;}
 h1 {text-align: center;background-color: rgb(183, 173, 218);}
-h3 {text-align: center;color: rgb(138, 157, 221);}
+h3 {text-align: center;color: rgb(134, 128, 161);}
 b {color: rgb(36, 34, 46);font-size: 18px;}
 i { color: rgb(93, 78, 129);font-size: 18px;}
 header, footer {background-color: rgb(48, 48, 75);text-align: center;font-size: 20px;}
@@ -8,4 +8,4 @@ main {background-color: rgb(192, 188, 219);}
 .PRIMEIROPARAGRAFO {text-align: center;font-size: 18px;border: rgb(38, 34, 56) 2px;padding: 10px;margin: 10px;}
 .SEGUNDOPARAGRAFO {text-align: center;font-size: 18px;border: rgb(38, 34, 56) 2px;padding: 10px;margin: 10px}
 #TITULOIMAGEM {width: 5%;height: 5%;}
-#LISTA {display: list-item;text-align: center;}
+#LISTA {display:inline-block;text-align: center;}
